@@ -1,27 +1,63 @@
 [
   {
+    "full_name": "pystatgen/sgkit",
+    "stargazers_count": 78,
+    "open_issues_count": 155,
+    "forks_count": 19
+  },
+  {
+    "full_name": "saulpw/visidata",
+    "stargazers_count": 5222,
+    "open_issues_count": 41,
+    "forks_count": 196
+  },
+  {
+    "full_name": "jitsucom/jitsu",
+    "stargazers_count": 2384,
+    "open_issues_count": 71,
+    "forks_count": 139
+  },
+  {
+    "full_name": "logseq/logseq",
+    "stargazers_count": 12231,
+    "open_issues_count": 1015,
+    "forks_count": 741
+  },
+  {
+    "full_name": "Budibase/budibase",
+    "stargazers_count": 12052,
+    "open_issues_count": 348,
+    "forks_count": 639
+  },
+  {
+    "full_name": "kathrinse/TabSurvey",
+    "stargazers_count": 47,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "KendrickOrg/kendrick",
-    "stargazers_count": 37,
+    "stargazers_count": 40,
     "open_issues_count": 78,
     "forks_count": 13
   },
   {
     "full_name": "AlgebraicJulia/Structured-Epidemic-Modeling",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Sage-Bionetworks/Synapse-Repository-Services",
     "stargazers_count": 29,
-    "open_issues_count": 1,
+    "open_issues_count": 4,
     "forks_count": 45
   },
   {
     "full_name": "facebookresearch/ParlAI",
     "stargazers_count": 8720,
-    "open_issues_count": 93,
-    "forks_count": 1819
+    "open_issues_count": 92,
+    "forks_count": 1820
   },
   {
     "full_name": "tobydriscoll/EigenShow.jl",
@@ -67,15 +103,15 @@
   },
   {
     "full_name": "blugelabs/bluge",
-    "stargazers_count": 951,
-    "open_issues_count": 44,
+    "stargazers_count": 955,
+    "open_issues_count": 46,
     "forks_count": 53
   },
   {
     "full_name": "prabhatsharma/zinc",
-    "stargazers_count": 6808,
+    "stargazers_count": 6856,
     "open_issues_count": 26,
-    "forks_count": 295
+    "forks_count": 297
   },
   {
     "full_name": "TeselaGen/openVectorEditor",
@@ -91,19 +127,19 @@
   },
   {
     "full_name": "simonw/shot-scraper",
-    "stargazers_count": 443,
-    "open_issues_count": 15,
+    "stargazers_count": 449,
+    "open_issues_count": 16,
     "forks_count": 22
   },
   {
     "full_name": "baptisteArno/typebot.io",
-    "stargazers_count": 784,
-    "open_issues_count": 1,
-    "forks_count": 47
+    "stargazers_count": 790,
+    "open_issues_count": 2,
+    "forks_count": 48
   },
   {
     "full_name": "facebookresearch/r3m",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -115,20 +151,20 @@
   },
   {
     "full_name": "WebAssembly/binaryen",
-    "stargazers_count": 5542,
-    "open_issues_count": 485,
+    "stargazers_count": 5549,
+    "open_issues_count": 488,
     "forks_count": 553
   },
   {
     "full_name": "grain-lang/grain",
-    "stargazers_count": 2331,
-    "open_issues_count": 201,
+    "stargazers_count": 2335,
+    "open_issues_count": 199,
     "forks_count": 82
   },
   {
     "full_name": "rasgointelligence/RasgoQL",
     "stargazers_count": 227,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 9
   },
   {
@@ -139,44 +175,8 @@
   },
   {
     "full_name": "highwire-ai/open-robo-advisor",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 12,
     "forks_count": 2
-  },
-  {
-    "full_name": "alexandria-org/alexandria",
-    "stargazers_count": 113,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "zotero/zotero",
-    "stargazers_count": 5034,
-    "open_issues_count": 843,
-    "forks_count": 504
-  },
-  {
-    "full_name": "ethanwillis/zotero-scihub",
-    "stargazers_count": 1253,
-    "open_issues_count": 7,
-    "forks_count": 112
-  },
-  {
-    "full_name": "single-cell-data/matrix-api",
-    "stargazers_count": 22,
-    "open_issues_count": 18,
-    "forks_count": 3
-  },
-  {
-    "full_name": "casey/just",
-    "stargazers_count": 5257,
-    "open_issues_count": 121,
-    "forks_count": 164
-  },
-  {
-    "full_name": "fhvermei/SolProp_ML",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
