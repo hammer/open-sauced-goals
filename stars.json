@@ -13,19 +13,19 @@
   },
   {
     "full_name": "dpfried/incoder",
-    "stargazers_count": 44,
-    "open_issues_count": 0,
+    "stargazers_count": 48,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "nlp-with-transformers/notebooks",
-    "stargazers_count": 1428,
+    "stargazers_count": 1432,
     "open_issues_count": 12,
     "forks_count": 278
   },
   {
     "full_name": "MachineLearningLifeScience/meaningful-protein-representations",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "plkmo/BERT-Relation-Extraction",
-    "stargazers_count": 418,
+    "stargazers_count": 419,
     "open_issues_count": 17,
     "forks_count": 104
   },
@@ -63,23 +63,23 @@
     "full_name": "HazyResearch/state-spaces",
     "stargazers_count": 543,
     "open_issues_count": 3,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "p2t2/Scruff.jl",
-    "stargazers_count": 14,
+    "stargazers_count": 16,
     "open_issues_count": 17,
     "forks_count": 0
   },
   {
     "full_name": "BaptisteBlouin/EventExtractionPapers",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 0,
     "forks_count": 85
   },
   {
     "full_name": "Spico197/DocEE",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "transform-data/metricflow",
-    "stargazers_count": 437,
-    "open_issues_count": 15,
-    "forks_count": 24
+    "stargazers_count": 456,
+    "open_issues_count": 17,
+    "forks_count": 26
   },
   {
     "full_name": "pystatgen/sgkit",
@@ -121,31 +121,31 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5313,
+    "stargazers_count": 5314,
     "open_issues_count": 45,
     "forks_count": 200
   },
   {
     "full_name": "jitsucom/jitsu",
-    "stargazers_count": 2404,
-    "open_issues_count": 79,
+    "stargazers_count": 2406,
+    "open_issues_count": 77,
     "forks_count": 140
   },
   {
     "full_name": "logseq/logseq",
-    "stargazers_count": 12391,
-    "open_issues_count": 1047,
+    "stargazers_count": 12423,
+    "open_issues_count": 1041,
     "forks_count": 752
   },
   {
     "full_name": "Budibase/budibase",
-    "stargazers_count": 12603,
-    "open_issues_count": 390,
-    "forks_count": 668
+    "stargazers_count": 12690,
+    "open_issues_count": 391,
+    "forks_count": 671
   },
   {
     "full_name": "kathrinse/TabSurvey",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 1,
     "forks_count": 20
   },
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "facebookresearch/ParlAI",
-    "stargazers_count": 8754,
-    "open_issues_count": 92,
+    "stargazers_count": 8756,
+    "open_issues_count": 93,
     "forks_count": 1827
   },
   {
