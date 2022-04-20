@@ -1,27 +1,27 @@
 [
   {
     "full_name": "brentp/echtvar",
-    "stargazers_count": 66,
+    "stargazers_count": 68,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "srush/Tensor-Puzzles",
-    "stargazers_count": 150,
+    "stargazers_count": 257,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 30
   },
   {
     "full_name": "HKUNLP/UnifiedSKG",
-    "stargazers_count": 192,
-    "open_issues_count": 0,
+    "stargazers_count": 195,
+    "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "scallop-lang/scallop-v1",
-    "stargazers_count": 34,
+    "stargazers_count": 56,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "tuetschek/ratpred",
@@ -43,32 +43,32 @@
   },
   {
     "full_name": "chakki-works/seqeval",
-    "stargazers_count": 753,
+    "stargazers_count": 754,
     "open_issues_count": 16,
     "forks_count": 105
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 7184,
+    "stargazers_count": 7186,
     "open_issues_count": 26,
-    "forks_count": 815
+    "forks_count": 816
   },
   {
     "full_name": "robustness-gym/summvis",
     "stargazers_count": 230,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "mosaicml/yahp",
     "stargazers_count": 28,
-    "open_issues_count": 10,
-    "forks_count": 3
+    "open_issues_count": 11,
+    "forks_count": 4
   },
   {
     "full_name": "mosaicml/composer",
-    "stargazers_count": 1249,
-    "open_issues_count": 130,
+    "stargazers_count": 1253,
+    "open_issues_count": 131,
     "forks_count": 66
   },
   {
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "dcmoura/spyql",
-    "stargazers_count": 651,
+    "stargazers_count": 657,
     "open_issues_count": 26,
     "forks_count": 20
   },
   {
     "full_name": "pangeo-forge/pangeo-forge-recipes",
-    "stargazers_count": 68,
-    "open_issues_count": 94,
+    "stargazers_count": 69,
+    "open_issues_count": 96,
     "forks_count": 29
   },
   {
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "dpfried/incoder",
-    "stargazers_count": 53,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "nlp-with-transformers/notebooks",
-    "stargazers_count": 1447,
+    "stargazers_count": 1457,
     "open_issues_count": 13,
-    "forks_count": 281
+    "forks_count": 284
   },
   {
     "full_name": "MachineLearningLifeScience/meaningful-protein-representations",
-    "stargazers_count": 33,
+    "stargazers_count": 36,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "microsoft/TextWorld",
-    "stargazers_count": 965,
+    "stargazers_count": 964,
     "open_issues_count": 19,
     "forks_count": 162
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "HazyResearch/state-spaces",
-    "stargazers_count": 543,
+    "stargazers_count": 544,
     "open_issues_count": 3,
     "forks_count": 46
   },
