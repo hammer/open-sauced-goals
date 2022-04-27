@@ -1,13 +1,13 @@
 [
   {
     "full_name": "hadynz/obsidian-kindle-plugin",
-    "stargazers_count": 258,
+    "stargazers_count": 260,
     "open_issues_count": 26,
     "forks_count": 20
   },
   {
     "full_name": "cortexlabs/nucleus",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -15,7 +15,7 @@
     "full_name": "cortexlabs/cortex",
     "stargazers_count": 7747,
     "open_issues_count": 108,
-    "forks_count": 590
+    "forks_count": 591
   },
   {
     "full_name": "austinvhuang/openmemex",
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "google/BIG-bench",
-    "stargazers_count": 547,
+    "stargazers_count": 550,
     "open_issues_count": 32,
     "forks_count": 296
   },
   {
     "full_name": "kubernetes/kompose",
-    "stargazers_count": 7638,
+    "stargazers_count": 7641,
     "open_issues_count": 31,
     "forks_count": 630
   },
   {
     "full_name": "compose-spec/compose-spec",
-    "stargazers_count": 1262,
+    "stargazers_count": 1264,
     "open_issues_count": 77,
     "forks_count": 583
   },
   {
     "full_name": "rosewang2008/language_modeling_via_stochastic_processes",
-    "stargazers_count": 33,
+    "stargazers_count": 43,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "pdfcpu/pdfcpu",
-    "stargazers_count": 3127,
+    "stargazers_count": 3131,
     "open_issues_count": 46,
-    "forks_count": 252
+    "forks_count": 253
   },
   {
     "full_name": "jeffspence/vilma",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "microsoft/mup",
-    "stargazers_count": 535,
+    "stargazers_count": 541,
     "open_issues_count": 5,
     "forks_count": 33
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "Graylab/IgFold",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
+    "stargazers_count": 33,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "rilldata/rill-developer",
-    "stargazers_count": 178,
-    "open_issues_count": 8,
+    "stargazers_count": 186,
+    "open_issues_count": 9,
     "forks_count": 7
   },
   {
     "full_name": "plasma-umass/slipcover",
-    "stargazers_count": 154,
+    "stargazers_count": 160,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "coiled/coiled-runtime",
     "stargazers_count": 2,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 4
   }
 ]
