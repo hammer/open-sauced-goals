@@ -1,8 +1,134 @@
 [
   {
+    "full_name": "labmlai/neox",
+    "stargazers_count": 38,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "allenai/pdf-component-library",
+    "stargazers_count": 4,
+    "open_issues_count": 19,
+    "forks_count": 0
+  },
+  {
+    "full_name": "allenai/ir_datasets",
+    "stargazers_count": 160,
+    "open_issues_count": 54,
+    "forks_count": 24
+  },
+  {
+    "full_name": "allenai/kb",
+    "stargazers_count": 297,
+    "open_issues_count": 20,
+    "forks_count": 46
+  },
+  {
+    "full_name": "dalab/end2end_neural_el",
+    "stargazers_count": 213,
+    "open_issues_count": 14,
+    "forks_count": 66
+  },
+  {
+    "full_name": "suamin/MedDistant19",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sylinrl/TruthfulQA",
+    "stargazers_count": 51,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
+    "full_name": "facebookresearch/bio-lm",
+    "stargazers_count": 88,
+    "open_issues_count": 6,
+    "forks_count": 14
+  },
+  {
+    "full_name": "c-box/LANKA",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dmis-lab/BioLAMA",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "hiaoxui/soft-prompts",
+    "stargazers_count": 49,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "BKHMSI/lms-as-kbs",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "reloadware/reloadium",
+    "stargazers_count": 701,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "allenai/aspire",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "pywren/pywren",
+    "stargazers_count": 784,
+    "open_issues_count": 107,
+    "forks_count": 100
+  },
+  {
+    "full_name": "tomerwolgithub/question-decomposition-to-sql",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "google/example_extrapolation",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "ruiqi-zhong/Meta-tuning",
+    "stargazers_count": 42,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "dfm/tinygp",
+    "stargazers_count": 140,
+    "open_issues_count": 9,
+    "forks_count": 10
+  },
+  {
+    "full_name": "synercys/annotated_latex_equations",
+    "stargazers_count": 2892,
+    "open_issues_count": 3,
+    "forks_count": 162
+  },
+  {
+    "full_name": "belindal/state-probes",
+    "stargazers_count": 35,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "hadynz/obsidian-kindle-plugin",
     "stargazers_count": 260,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 20
   },
   {
@@ -15,29 +141,29 @@
     "full_name": "cortexlabs/cortex",
     "stargazers_count": 7747,
     "open_issues_count": 108,
-    "forks_count": 591
+    "forks_count": 590
   },
   {
     "full_name": "austinvhuang/openmemex",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "CrossRef/rest-api-doc",
     "stargazers_count": 622,
-    "open_issues_count": 117,
+    "open_issues_count": 118,
     "forks_count": 275
   },
   {
     "full_name": "cambridgeltl/cometa",
     "stargazers_count": 29,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "IBM/kgi-slot-filling",
-    "stargazers_count": 25,
+    "stargazers_count": 24,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -52,131 +178,5 @@
     "stargazers_count": 45,
     "open_issues_count": 3,
     "forks_count": 10
-  },
-  {
-    "full_name": "google/BIG-bench",
-    "stargazers_count": 550,
-    "open_issues_count": 32,
-    "forks_count": 296
-  },
-  {
-    "full_name": "kubernetes/kompose",
-    "stargazers_count": 7641,
-    "open_issues_count": 31,
-    "forks_count": 630
-  },
-  {
-    "full_name": "compose-spec/compose-spec",
-    "stargazers_count": 1264,
-    "open_issues_count": 77,
-    "forks_count": 583
-  },
-  {
-    "full_name": "rosewang2008/language_modeling_via_stochastic_processes",
-    "stargazers_count": 43,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "pdfcpu/pdfcpu",
-    "stargazers_count": 3131,
-    "open_issues_count": 46,
-    "forks_count": 253
-  },
-  {
-    "full_name": "jeffspence/vilma",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dustinkirkland/byobu",
-    "stargazers_count": 827,
-    "open_issues_count": 11,
-    "forks_count": 100
-  },
-  {
-    "full_name": "microsoft/mup",
-    "stargazers_count": 541,
-    "open_issues_count": 5,
-    "forks_count": 33
-  },
-  {
-    "full_name": "dorarad/gansformer",
-    "stargazers_count": 1159,
-    "open_issues_count": 6,
-    "forks_count": 131
-  },
-  {
-    "full_name": "tbs17/MathBERT",
-    "stargazers_count": 12,
-    "open_issues_count": 3,
-    "forks_count": 2
-  },
-  {
-    "full_name": "wenhuchen/OTT-QA",
-    "stargazers_count": 98,
-    "open_issues_count": 0,
-    "forks_count": 19
-  },
-  {
-    "full_name": "gwgundersen/anno",
-    "stargazers_count": 100,
-    "open_issues_count": 8,
-    "forks_count": 5
-  },
-  {
-    "full_name": "pykeen/ranking-metrics-manuscript",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pykeen/ilpc2022",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "udel-biotm-lab/BERT-CLRE",
-    "stargazers_count": 15,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Graylab/IgFold",
-    "stargazers_count": 33,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "rowanz/merlot",
-    "stargazers_count": 160,
-    "open_issues_count": 3,
-    "forks_count": 18
-  },
-  {
-    "full_name": "rowanz/piglet",
-    "stargazers_count": 49,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "rilldata/rill-developer",
-    "stargazers_count": 186,
-    "open_issues_count": 9,
-    "forks_count": 7
-  },
-  {
-    "full_name": "plasma-umass/slipcover",
-    "stargazers_count": 160,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "coiled/coiled-runtime",
-    "stargazers_count": 2,
-    "open_issues_count": 23,
-    "forks_count": 4
   }
 ]
