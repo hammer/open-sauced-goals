@@ -1,9 +1,15 @@
 [
   {
-    "full_name": "pachterlab/gget",
-    "stargazers_count": 229,
+    "full_name": "StonyBrookNLP/teabreac",
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 0
+  },
+  {
+    "full_name": "pachterlab/gget",
+    "stargazers_count": 245,
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "HazyResearch/medical-ned-integration",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "SnellerInc/sneller",
-    "stargazers_count": 521,
+    "stargazers_count": 538,
     "open_issues_count": 0,
-    "forks_count": 19
+    "forks_count": 21
   },
   {
     "full_name": "gdagstn/oveRlay",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "facebookresearch/distributed-faiss",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "apple/ml-hierarchical-confusion-matrix",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 3,
     "forks_count": 17
   },
   {
     "full_name": "blacksmithgu/obsidian-dataview",
-    "stargazers_count": 2223,
-    "open_issues_count": 244,
-    "forks_count": 138
+    "stargazers_count": 2251,
+    "open_issues_count": 245,
+    "forks_count": 139
   },
   {
     "full_name": "saulpw/jdot",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "ersilia-os/ersilia",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 14,
     "forks_count": 72
   },
@@ -85,19 +91,19 @@
   },
   {
     "full_name": "facebookresearch/SEAL",
-    "stargazers_count": 114,
+    "stargazers_count": 116,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "lithops-cloud/lithops",
     "stargazers_count": 215,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 72
   },
   {
     "full_name": "tomwhite/cubed",
-    "stargazers_count": 12,
+    "stargazers_count": 16,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -121,8 +127,8 @@
   },
   {
     "full_name": "gao-lab/GLUE",
-    "stargazers_count": 120,
-    "open_issues_count": 4,
+    "stargazers_count": 121,
+    "open_issues_count": 5,
     "forks_count": 19
   },
   {
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "facebookresearch/metaseq",
-    "stargazers_count": 3002,
-    "open_issues_count": 52,
-    "forks_count": 266
+    "stargazers_count": 3024,
+    "open_issues_count": 55,
+    "forks_count": 269
   },
   {
     "full_name": "chaitanya2334/WLP-Dataset",
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "crittermike/shortkeys",
-    "stargazers_count": 693,
-    "open_issues_count": 130,
+    "stargazers_count": 694,
+    "open_issues_count": 131,
     "forks_count": 145
   },
   {
     "full_name": "labmlai/neox",
-    "stargazers_count": 73,
+    "stargazers_count": 76,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -170,13 +176,7 @@
   {
     "full_name": "allenai/ir_datasets",
     "stargazers_count": 171,
-    "open_issues_count": 56,
+    "open_issues_count": 57,
     "forks_count": 24
-  },
-  {
-    "full_name": "allenai/kb",
-    "stargazers_count": 298,
-    "open_issues_count": 20,
-    "forks_count": 46
   }
 ]
