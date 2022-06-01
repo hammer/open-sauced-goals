@@ -1,14 +1,14 @@
 [
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 1800,
-    "open_issues_count": 274,
-    "forks_count": 46
+    "stargazers_count": 2107,
+    "open_issues_count": 273,
+    "forks_count": 52
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 716,
-    "open_issues_count": 21,
+    "stargazers_count": 719,
+    "open_issues_count": 22,
     "forks_count": 57
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "pachterlab/gget",
-    "stargazers_count": 273,
+    "stargazers_count": 280,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "SnellerInc/sneller",
-    "stargazers_count": 556,
+    "stargazers_count": 563,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "facebookresearch/distributed-faiss",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "blacksmithgu/obsidian-dataview",
-    "stargazers_count": 2264,
-    "open_issues_count": 248,
+    "stargazers_count": 2273,
+    "open_issues_count": 249,
     "forks_count": 141
   },
   {
@@ -103,20 +103,20 @@
   },
   {
     "full_name": "facebookresearch/SEAL",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "lithops-cloud/lithops",
-    "stargazers_count": 215,
-    "open_issues_count": 7,
+    "stargazers_count": 216,
+    "open_issues_count": 6,
     "forks_count": 72
   },
   {
     "full_name": "tomwhite/cubed",
     "stargazers_count": 17,
-    "open_issues_count": 15,
+    "open_issues_count": 13,
     "forks_count": 0
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "mega002/lm-debugger",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "facebookresearch/metaseq",
-    "stargazers_count": 3064,
-    "open_issues_count": 51,
+    "stargazers_count": 3073,
+    "open_issues_count": 52,
     "forks_count": 274
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "crittermike/shortkeys",
-    "stargazers_count": 697,
+    "stargazers_count": 698,
     "open_issues_count": 132,
     "forks_count": 145
   },
