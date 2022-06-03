@@ -1,14 +1,14 @@
 [
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 2107,
-    "open_issues_count": 273,
-    "forks_count": 52
+    "stargazers_count": 2403,
+    "open_issues_count": 284,
+    "forks_count": 60
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 719,
-    "open_issues_count": 22,
+    "stargazers_count": 723,
+    "open_issues_count": 20,
     "forks_count": 57
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "pachterlab/gget",
-    "stargazers_count": 280,
-    "open_issues_count": 1,
+    "stargazers_count": 290,
+    "open_issues_count": 2,
     "forks_count": 15
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "SnellerInc/sneller",
-    "stargazers_count": 563,
+    "stargazers_count": 568,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "gdagstn/oveRlay",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "facebookresearch/side",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "blacksmithgu/obsidian-dataview",
-    "stargazers_count": 2273,
-    "open_issues_count": 249,
-    "forks_count": 141
+    "stargazers_count": 2284,
+    "open_issues_count": 251,
+    "forks_count": 140
   },
   {
     "full_name": "saulpw/jdot",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "tau-nlp/scrolls",
-    "stargazers_count": 24,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "facebookresearch/SEAL",
-    "stargazers_count": 119,
-    "open_issues_count": 1,
+    "stargazers_count": 121,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "tomwhite/cubed",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 13,
     "forks_count": 0
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "mega002/lm-debugger",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "gao-lab/GLUE",
-    "stargazers_count": 124,
-    "open_issues_count": 5,
-    "forks_count": 19
+    "stargazers_count": 125,
+    "open_issues_count": 6,
+    "forks_count": 20
   },
   {
     "full_name": "StonyBrookNLP/multee",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "facebookresearch/metaseq",
-    "stargazers_count": 3073,
-    "open_issues_count": 52,
-    "forks_count": 274
+    "stargazers_count": 3093,
+    "open_issues_count": 51,
+    "forks_count": 279
   },
   {
     "full_name": "chaitanya2334/WLP-Dataset",
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "crittermike/shortkeys",
-    "stargazers_count": 698,
-    "open_issues_count": 132,
+    "stargazers_count": 699,
+    "open_issues_count": 131,
     "forks_count": 145
   },
   {
