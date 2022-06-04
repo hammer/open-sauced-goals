@@ -1,14 +1,14 @@
 [
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 2403,
-    "open_issues_count": 284,
+    "stargazers_count": 2445,
+    "open_issues_count": 288,
     "forks_count": 60
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 723,
-    "open_issues_count": 20,
+    "stargazers_count": 722,
+    "open_issues_count": 21,
     "forks_count": 57
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "pachterlab/gget",
-    "stargazers_count": 290,
+    "stargazers_count": 293,
     "open_issues_count": 2,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "HazyResearch/medical-ned-integration",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "SnellerInc/sneller",
-    "stargazers_count": 568,
+    "stargazers_count": 569,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "gdagstn/oveRlay",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "blacksmithgu/obsidian-dataview",
-    "stargazers_count": 2284,
-    "open_issues_count": 251,
+    "stargazers_count": 2288,
+    "open_issues_count": 252,
     "forks_count": 140
   },
   {
@@ -105,7 +105,7 @@
     "full_name": "facebookresearch/SEAL",
     "stargazers_count": 121,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "lithops-cloud/lithops",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "mega002/lm-debugger",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "facebookresearch/metaseq",
-    "stargazers_count": 3093,
-    "open_issues_count": 51,
-    "forks_count": 279
+    "stargazers_count": 3102,
+    "open_issues_count": 53,
+    "forks_count": 283
   },
   {
     "full_name": "chaitanya2334/WLP-Dataset",
