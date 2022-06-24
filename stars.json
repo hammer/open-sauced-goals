@@ -7,14 +7,14 @@
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 547,
-    "open_issues_count": 6,
+    "stargazers_count": 562,
+    "open_issues_count": 7,
     "forks_count": 40
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 631,
-    "open_issues_count": 8,
+    "stargazers_count": 637,
+    "open_issues_count": 9,
     "forks_count": 33
   },
   {
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "aqueducthq/aqueduct",
-    "stargazers_count": 265,
-    "open_issues_count": 8,
+    "stargazers_count": 268,
+    "open_issues_count": 11,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
-    "stargazers_count": 1140,
+    "stargazers_count": 1144,
     "open_issues_count": 132,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "noveens/infinite_ae_cf",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "XiangLi1999/Diffusion-LM",
-    "stargazers_count": 175,
+    "stargazers_count": 193,
     "open_issues_count": 5,
-    "forks_count": 5
+    "forks_count": 7
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 6057,
-    "open_issues_count": 44,
-    "forks_count": 340
+    "stargazers_count": 6118,
+    "open_issues_count": 43,
+    "forks_count": 346
   },
   {
     "full_name": "allenai/ACCoRD",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 3319,
-    "open_issues_count": 310,
-    "forks_count": 72
+    "stargazers_count": 3347,
+    "open_issues_count": 315,
+    "forks_count": 74
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 733,
-    "open_issues_count": 20,
+    "stargazers_count": 740,
+    "open_issues_count": 24,
     "forks_count": 59
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "pachterlab/gget",
-    "stargazers_count": 337,
+    "stargazers_count": 339,
     "open_issues_count": 4,
     "forks_count": 19
   },
@@ -122,14 +122,14 @@
   {
     "full_name": "apple/ml-hierarchical-confusion-matrix",
     "stargazers_count": 234,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "blacksmithgu/obsidian-dataview",
-    "stargazers_count": 2394,
-    "open_issues_count": 249,
-    "forks_count": 148
+    "stargazers_count": 2404,
+    "open_issues_count": 250,
+    "forks_count": 151
   },
   {
     "full_name": "saulpw/jdot",
@@ -170,13 +170,13 @@
   {
     "full_name": "lithops-cloud/lithops",
     "stargazers_count": 217,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 73
   },
   {
     "full_name": "tomwhite/cubed",
     "stargazers_count": 21,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 0
   }
 ]
