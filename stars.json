@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "gpp-rnd/rs3",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gpp-rnd/rs_dev",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bm2-lab/iGWOS",
+    "stargazers_count": 3,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "RAIVNLab/MRL",
+    "stargazers_count": 30,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
     "full_name": "davidatbu/tqdm-stubs",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -50,7 +74,7 @@
   {
     "full_name": "DepMap-Analytics/CoRe",
     "stargazers_count": 6,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -61,43 +85,43 @@
   },
   {
     "full_name": "unisonweb/unison",
-    "stargazers_count": 4465,
-    "open_issues_count": 804,
+    "stargazers_count": 4471,
+    "open_issues_count": 802,
     "forks_count": 234
   },
   {
     "full_name": "HazyResearch/fm_data_tasks",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 591,
+    "stargazers_count": 602,
     "open_issues_count": 8,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 646,
-    "open_issues_count": 9,
+    "stargazers_count": 647,
+    "open_issues_count": 12,
     "forks_count": 34
   },
   {
     "full_name": "SapienzaNLP/extend",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "aqueducthq/aqueduct",
-    "stargazers_count": 272,
-    "open_issues_count": 16,
+    "stargazers_count": 274,
+    "open_issues_count": 15,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
-    "stargazers_count": 1152,
+    "stargazers_count": 1153,
     "open_issues_count": 133,
     "forks_count": 175
   },
@@ -109,15 +133,15 @@
   },
   {
     "full_name": "XiangLi1999/Diffusion-LM",
-    "stargazers_count": 205,
-    "open_issues_count": 7,
-    "forks_count": 10
+    "stargazers_count": 209,
+    "open_issues_count": 8,
+    "forks_count": 14
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 6316,
-    "open_issues_count": 47,
-    "forks_count": 361
+    "stargazers_count": 6375,
+    "open_issues_count": 51,
+    "forks_count": 365
   },
   {
     "full_name": "allenai/ACCoRD",
@@ -127,14 +151,14 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 3416,
-    "open_issues_count": 321,
+    "stargazers_count": 3437,
+    "open_issues_count": 310,
     "forks_count": 77
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 746,
-    "open_issues_count": 25,
+    "stargazers_count": 747,
+    "open_issues_count": 24,
     "forks_count": 59
   },
   {
@@ -145,7 +169,7 @@
   },
   {
     "full_name": "pachterlab/gget",
-    "stargazers_count": 346,
+    "stargazers_count": 348,
     "open_issues_count": 4,
     "forks_count": 20
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "SnellerInc/sneller",
-    "stargazers_count": 590,
-    "open_issues_count": 0,
-    "forks_count": 24
-  },
-  {
-    "full_name": "gdagstn/oveRlay",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "facebookresearch/Sphere",
-    "stargazers_count": 26,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "facebookresearch/side",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
