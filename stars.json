@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "bigscience-workshop/biomedical",
+    "stargazers_count": 149,
+    "open_issues_count": 132,
+    "forks_count": 72
+  },
+  {
+    "full_name": "arnabdotorg/hilda",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "stanford-crfm/sprucfluo",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "gpp-rnd/rs3",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,8 +37,8 @@
   },
   {
     "full_name": "RAIVNLab/MRL",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
+    "stargazers_count": 34,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
@@ -85,8 +103,8 @@
   },
   {
     "full_name": "unisonweb/unison",
-    "stargazers_count": 4472,
-    "open_issues_count": 807,
+    "stargazers_count": 4475,
+    "open_issues_count": 811,
     "forks_count": 234
   },
   {
@@ -97,51 +115,51 @@
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 605,
+    "stargazers_count": 609,
     "open_issues_count": 9,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 648,
+    "stargazers_count": 657,
     "open_issues_count": 11,
     "forks_count": 34
   },
   {
     "full_name": "SapienzaNLP/extend",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "aqueducthq/aqueduct",
-    "stargazers_count": 275,
-    "open_issues_count": 13,
+    "stargazers_count": 274,
+    "open_issues_count": 16,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
-    "stargazers_count": 1153,
+    "stargazers_count": 1157,
     "open_issues_count": 133,
     "forks_count": 175
   },
   {
     "full_name": "noveens/infinite_ae_cf",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "XiangLi1999/Diffusion-LM",
-    "stargazers_count": 219,
+    "stargazers_count": 241,
     "open_issues_count": 9,
-    "forks_count": 15
+    "forks_count": 17
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 6404,
-    "open_issues_count": 48,
-    "forks_count": 365
+    "stargazers_count": 6500,
+    "open_issues_count": 41,
+    "forks_count": 369
   },
   {
     "full_name": "allenai/ACCoRD",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 3441,
-    "open_issues_count": 312,
-    "forks_count": 77
+    "stargazers_count": 3461,
+    "open_issues_count": 315,
+    "forks_count": 78
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 747,
-    "open_issues_count": 25,
+    "stargazers_count": 752,
+    "open_issues_count": 24,
     "forks_count": 59
-  },
-  {
-    "full_name": "StonyBrookNLP/teabreac",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pachterlab/gget",
-    "stargazers_count": 347,
-    "open_issues_count": 4,
-    "forks_count": 20
-  },
-  {
-    "full_name": "HazyResearch/medical-ned-integration",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
