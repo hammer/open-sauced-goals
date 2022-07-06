@@ -1,8 +1,8 @@
 [
   {
     "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 149,
-    "open_issues_count": 132,
+    "stargazers_count": 151,
+    "open_issues_count": 131,
     "forks_count": 72
   },
   {
@@ -39,7 +39,7 @@
     "full_name": "RAIVNLab/MRL",
     "stargazers_count": 34,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 4
   },
   {
     "full_name": "davidatbu/tqdm-stubs",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "unisonweb/unison",
-    "stargazers_count": 4475,
-    "open_issues_count": 811,
+    "stargazers_count": 4478,
+    "open_issues_count": 814,
     "forks_count": 234
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 609,
+    "stargazers_count": 612,
     "open_issues_count": 9,
     "forks_count": 43
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 657,
-    "open_issues_count": 11,
+    "stargazers_count": 670,
+    "open_issues_count": 9,
     "forks_count": 34
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "aqueducthq/aqueduct",
-    "stargazers_count": 274,
+    "stargazers_count": 275,
     "open_issues_count": 16,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
-    "stargazers_count": 1157,
+    "stargazers_count": 1158,
     "open_issues_count": 133,
     "forks_count": 175
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "XiangLi1999/Diffusion-LM",
-    "stargazers_count": 241,
+    "stargazers_count": 246,
     "open_issues_count": 9,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 6500,
+    "stargazers_count": 6513,
     "open_issues_count": 41,
-    "forks_count": 369
+    "forks_count": 371
   },
   {
     "full_name": "allenai/ACCoRD",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 3461,
-    "open_issues_count": 315,
+    "stargazers_count": 3471,
+    "open_issues_count": 312,
     "forks_count": 78
   },
   {
     "full_name": "Effect-TS/core",
-    "stargazers_count": 752,
+    "stargazers_count": 754,
     "open_issues_count": 24,
     "forks_count": 59
   }
