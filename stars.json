@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "facebookresearch/task_bench",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "human-pangenomics/hpp_pangenome_resources",
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "pinellolab/CRISPRme",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -26,7 +38,7 @@
   {
     "full_name": "bigscience-workshop/biomedical",
     "stargazers_count": 156,
-    "open_issues_count": 135,
+    "open_issues_count": 134,
     "forks_count": 74
   },
   {
@@ -62,7 +74,7 @@
   {
     "full_name": "RAIVNLab/MRL",
     "stargazers_count": 34,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
@@ -127,8 +139,8 @@
   },
   {
     "full_name": "unisonweb/unison",
-    "stargazers_count": 4481,
-    "open_issues_count": 820,
+    "stargazers_count": 4486,
+    "open_issues_count": 821,
     "forks_count": 235
   },
   {
@@ -139,13 +151,13 @@
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 621,
-    "open_issues_count": 10,
+    "stargazers_count": 626,
+    "open_issues_count": 9,
     "forks_count": 45
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 679,
+    "stargazers_count": 688,
     "open_issues_count": 11,
     "forks_count": 36
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "aqueducthq/aqueduct",
-    "stargazers_count": 277,
-    "open_issues_count": 8,
+    "stargazers_count": 278,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
-    "stargazers_count": 1162,
-    "open_issues_count": 134,
+    "stargazers_count": 1163,
+    "open_issues_count": 135,
     "forks_count": 175
-  },
-  {
-    "full_name": "noveens/infinite_ae_cf",
-    "stargazers_count": 33,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "XiangLi1999/Diffusion-LM",
-    "stargazers_count": 257,
-    "open_issues_count": 9,
-    "forks_count": 24
   }
 ]
