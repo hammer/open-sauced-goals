@@ -1,7 +1,7 @@
 [
   {
     "full_name": "facebookresearch/task_bench",
-    "stargazers_count": 5,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 156,
+    "stargazers_count": 159,
     "open_issues_count": 134,
     "forks_count": 74
   },
@@ -92,7 +92,7 @@
   {
     "full_name": "Bioprotocols/paml",
     "stargazers_count": 20,
-    "open_issues_count": 60,
+    "open_issues_count": 61,
     "forks_count": 7
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "unisonweb/unison",
-    "stargazers_count": 4486,
-    "open_issues_count": 821,
+    "stargazers_count": 4491,
+    "open_issues_count": 819,
     "forks_count": 235
   },
   {
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "THUDM/CogView2",
-    "stargazers_count": 626,
+    "stargazers_count": 630,
     "open_issues_count": 9,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "patrick-kidger/equinox",
-    "stargazers_count": 688,
+    "stargazers_count": 692,
     "open_issues_count": 11,
     "forks_count": 36
   },
@@ -170,13 +170,13 @@
   {
     "full_name": "aqueducthq/aqueduct",
     "stargazers_count": 278,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "stephenou/fruitionsite",
     "stargazers_count": 1163,
-    "open_issues_count": 135,
+    "open_issues_count": 136,
     "forks_count": 175
   }
 ]
