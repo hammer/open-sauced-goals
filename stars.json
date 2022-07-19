@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "hart-lab/bagel",
+    "stargazers_count": 13,
+    "open_issues_count": 10,
+    "forks_count": 16
+  },
+  {
     "full_name": "staciawyman/blender",
     "stargazers_count": 16,
     "open_issues_count": 2,
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 164,
-    "open_issues_count": 134,
+    "stargazers_count": 167,
+    "open_issues_count": 135,
     "forks_count": 74
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "dmitrykoval/vinum",
-    "stargazers_count": 60,
-    "open_issues_count": 1,
-    "forks_count": 5
   }
 ]
