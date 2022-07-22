@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "valeman/awesome-conformal-prediction",
+    "stargazers_count": 588,
+    "open_issues_count": 0,
+    "forks_count": 65
+  },
+  {
     "full_name": "hart-lab/bagel",
     "stargazers_count": 13,
     "open_issues_count": 10,
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "allenai/mslr-shared-task",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "human-pangenomics/hpp_pangenome_resources",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 170,
-    "open_issues_count": 135,
+    "stargazers_count": 171,
+    "open_issues_count": 137,
     "forks_count": 74
   },
   {
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "Bioprotocols/paml",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 61,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "abs-tudelft/ArrowSAM",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "DepMap-Analytics/CoRe",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
