@@ -1,9 +1,63 @@
 [
   {
-    "full_name": "valeman/awesome-conformal-prediction",
-    "stargazers_count": 588,
+    "full_name": "GavinHaLab/Griffin",
+    "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 65
+    "forks_count": 0
+  },
+  {
+    "full_name": "activeloopai/Hub",
+    "stargazers_count": 4712,
+    "open_issues_count": 52,
+    "forks_count": 386
+  },
+  {
+    "full_name": "GoogleCloudPlatform/Kbatch",
+    "stargazers_count": 48,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "kubernetes-sigs/kube-batch",
+    "stargazers_count": 982,
+    "open_issues_count": 9,
+    "forks_count": 262
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "stargazers_count": 2529,
+    "open_issues_count": 201,
+    "forks_count": 576
+  },
+  {
+    "full_name": "prql/dbt-prql",
+    "stargazers_count": 18,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "marcus-crane/october",
+    "stargazers_count": 32,
+    "open_issues_count": 20,
+    "forks_count": 3
+  },
+  {
+    "full_name": "kevinlawler/kerf1",
+    "stargazers_count": 489,
+    "open_issues_count": 1,
+    "forks_count": 35
+  },
+  {
+    "full_name": "aergoio/litetree",
+    "stargazers_count": 1551,
+    "open_issues_count": 8,
+    "forks_count": 37
+  },
+  {
+    "full_name": "valeman/awesome-conformal-prediction",
+    "stargazers_count": 597,
+    "open_issues_count": 0,
+    "forks_count": 66
   },
   {
     "full_name": "hart-lab/bagel",
@@ -43,8 +97,8 @@
   },
   {
     "full_name": "DiseaseOntology/HumanDiseaseOntology",
-    "stargazers_count": 276,
-    "open_issues_count": 42,
+    "stargazers_count": 277,
+    "open_issues_count": 43,
     "forks_count": 98
   },
   {
@@ -55,7 +109,7 @@
   },
   {
     "full_name": "facebookresearch/task_bench",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -91,8 +145,8 @@
   },
   {
     "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 171,
-    "open_issues_count": 137,
+    "stargazers_count": 174,
+    "open_issues_count": 135,
     "forks_count": 74
   },
   {
@@ -124,59 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 4,
     "forks_count": 3
-  },
-  {
-    "full_name": "RAIVNLab/MRL",
-    "stargazers_count": 36,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "davidatbu/tqdm-stubs",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Bioprotocols/PAML-specification",
-    "stargazers_count": 11,
-    "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "Bioprotocols/paml",
-    "stargazers_count": 22,
-    "open_issues_count": 61,
-    "forks_count": 8
-  },
-  {
-    "full_name": "abs-tudelft/ArrowSAM",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "VKonstantakos/CRISPRedict",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "boutroslab/CRISPRAnalyzeR",
-    "stargazers_count": 70,
-    "open_issues_count": 25,
-    "forks_count": 29
-  },
-  {
-    "full_name": "boutroslab/caRpools",
-    "stargazers_count": 20,
-    "open_issues_count": 8,
-    "forks_count": 13
-  },
-  {
-    "full_name": "AleVin1995/MinTEs",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
