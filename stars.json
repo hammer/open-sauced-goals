@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "discourse/discourse-data-explorer",
+    "stargazers_count": 71,
+    "open_issues_count": 1,
+    "forks_count": 39
+  },
+  {
+    "full_name": "broadinstitute/pepper",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "googleapis/release-please",
+    "stargazers_count": 1251,
+    "open_issues_count": 55,
+    "forks_count": 144
+  },
+  {
+    "full_name": "enpaul/tox-poetry-installer",
+    "stargazers_count": 39,
+    "open_issues_count": 5,
+    "forks_count": 4
+  },
+  {
+    "full_name": "jeromekelleher/phylokit",
+    "stargazers_count": 7,
+    "open_issues_count": 6,
+    "forks_count": 3
+  },
+  {
+    "full_name": "Relento/lego_release",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "louismullie/treat",
+    "stargazers_count": 1353,
+    "open_issues_count": 36,
+    "forks_count": 131
+  },
+  {
     "full_name": "GavinHaLab/Griffin",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,8 +49,8 @@
   },
   {
     "full_name": "activeloopai/Hub",
-    "stargazers_count": 4712,
-    "open_issues_count": 52,
+    "stargazers_count": 4717,
+    "open_issues_count": 54,
     "forks_count": 386
   },
   {
@@ -19,15 +61,15 @@
   },
   {
     "full_name": "kubernetes-sigs/kube-batch",
-    "stargazers_count": 982,
+    "stargazers_count": 984,
     "open_issues_count": 9,
     "forks_count": 262
   },
   {
     "full_name": "volcano-sh/volcano",
-    "stargazers_count": 2529,
-    "open_issues_count": 201,
-    "forks_count": 576
+    "stargazers_count": 2533,
+    "open_issues_count": 205,
+    "forks_count": 577
   },
   {
     "full_name": "prql/dbt-prql",
@@ -37,27 +79,27 @@
   },
   {
     "full_name": "marcus-crane/october",
-    "stargazers_count": 32,
+    "stargazers_count": 34,
     "open_issues_count": 20,
     "forks_count": 3
   },
   {
     "full_name": "kevinlawler/kerf1",
-    "stargazers_count": 489,
-    "open_issues_count": 1,
+    "stargazers_count": 496,
+    "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "aergoio/litetree",
-    "stargazers_count": 1551,
+    "stargazers_count": 1554,
     "open_issues_count": 8,
     "forks_count": 37
   },
   {
     "full_name": "valeman/awesome-conformal-prediction",
-    "stargazers_count": 597,
+    "stargazers_count": 618,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "hart-lab/bagel",
@@ -98,7 +140,7 @@
   {
     "full_name": "DiseaseOntology/HumanDiseaseOntology",
     "stargazers_count": 277,
-    "open_issues_count": 43,
+    "open_issues_count": 38,
     "forks_count": 98
   },
   {
@@ -115,7 +157,7 @@
   },
   {
     "full_name": "human-pangenomics/hpp_pangenome_resources",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -129,54 +171,12 @@
     "full_name": "schmidt73/guidescan-cli",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "PeterDeWeirdt/FASTS",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "ruth-hanna/software-tools-review",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "bigscience-workshop/biomedical",
-    "stargazers_count": 174,
-    "open_issues_count": 135,
-    "forks_count": 74
-  },
-  {
-    "full_name": "arnabdotorg/hilda",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "stanford-crfm/sprucfluo",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "gpp-rnd/rs3",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "gpp-rnd/rs_dev",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "bm2-lab/iGWOS",
-    "stargazers_count": 3,
-    "open_issues_count": 4,
-    "forks_count": 3
   }
 ]
